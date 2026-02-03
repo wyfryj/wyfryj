@@ -1,17 +1,34 @@
-## Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
-<!--
-**wyfryj/wyfryj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+  ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello,+World!;I'm+wyfryj;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <p>
+    🌱 I’m currently learning <strong>Java, Python & Web Development</strong>
+    <br/>
+    💬 Ask me about <strong>Tech & Coding</strong>
+  </p>
+
+  <br/>
+
+  <h3>🛠️ Tech Stack</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,mysql,vscode&perline=8" />
+  </p>
+
+  <br/>
+
+  <h3>📊 GitHub Stats</h3>
+  
+  <img src="https://metrics.lecoq.io/wyfryj?template=classic&config.timezone=Asia%2FShanghai" width="80%">
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyfryj&theme=radical&hide_border=true" alt="Streak Stats" />
+
+</div>
