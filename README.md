@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f4734670-0616-4108-b804-f96e90410301.gif" width="100%" style="border-radius: 15px; margin-bottom: 15px;" alt="Cyberpunk Banner">
+  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf3c65ef.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Cyberpunk Banner">
 
   ### Hi there 👋
 
