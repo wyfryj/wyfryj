@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/58d87b02-c9f5-49cd-bb1d-8985eba11031" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Cyberpunk Banner">
-
   ### Hi there 👋
 
   <a href="https://git.io/typing-svg">
@@ -25,14 +23,8 @@
 
   <br/>
 
-  <h3>📊 GitHub Stats</h3>
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=wyfryj&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyfryj&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Langs" />
-  </p>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyfryj&theme=radical&hide_border=true" alt="Streak Stats" />
+
 
   <br/><br/>
 
@@ -46,5 +38,9 @@
   <br/><br/>
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wyfryj.wyfryj" alt="visitor badge"/>
+
+  <br/><br/>
+
+  <img src="https://github.com/user-attachments/assets/58d87b02-c9f5-49cd-bb1d-8985eba11031" width="80%" style="border-radius: 10px;" alt="Cyberpunk Banner">
 
 </div>
