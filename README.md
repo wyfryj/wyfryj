@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f4734670-0616-4108-b804-f96e90410301.gif" width="100%" style="border-radius: 15px; margin-bottom: 15px;" alt="Cyberpunk Banner">
+
   ### Hi there 👋
 
   <a href="https://git.io/typing-svg">
