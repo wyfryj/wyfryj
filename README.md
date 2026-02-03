@@ -25,13 +25,13 @@
 
   <h3>📊 GitHub Stats</h3>
   
- <img src="https://github-readme-stats.vercel.app/api?username=wyfryj&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyfryj&theme=radical&hide_border=true" alt="Streak Stats" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=wyfryj&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyfryj&theme=radical&hide_border=true" alt="Streak Stats" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
   <h3>🐍 My Contribution Snake</h3>
   <picture>
