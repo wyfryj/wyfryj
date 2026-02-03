@@ -4,7 +4,7 @@
 **wyfryj/wyfryj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=ubrong&show_icons=true&theme=tokyonight) 作者：迷斯特航 https://www.bilibili.com/read/cv21336135/?opus_fallback=1 出处：bilibili
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=wyfryj&show_icons=true&theme=tokyonight) 
 
 
 - 🔭 I’m currently working on ...
