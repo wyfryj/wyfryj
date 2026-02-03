@@ -24,9 +24,12 @@
   <br/>
 
   <h3>🏆 Achievements</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wyfryj&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+       <img src="https://github-profile-trophy.vercel.app/?username=wyfryj&theme=radical&margin-w=4&no-bg=true" height="110" />
+    </a>
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110" height="110" alt="Quickdraw Achievement" title="Quickdraw: Closed an issue/PR within 5 mins!" style="margin-left: 10px;" />
+  </div>
 
   <br/>
 
