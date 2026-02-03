@@ -31,4 +31,13 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyfryj&theme=radical&hide_border=true" alt="Streak Stats" />
 
+  <br/><br/>
+
+  <h3>🐍 My Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wyfryj/wyfryj/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wyfryj/wyfryj/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wyfryj/wyfryj/output/github-contribution-grid-snake.svg?v=1">
+  </picture>
+
 </div>
