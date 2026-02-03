@@ -25,7 +25,7 @@
 
   <h3>📊 GitHub Stats</h3>
   
-  <img src="https://metrics.lecoq.io/wyfryj?template=classic&config.timezone=Asia%2FShanghai" width="80%">
+ <img src="https://github-readme-stats.vercel.app/api?username=wyfryj&show_icons=true&theme=radical" alt="GitHub Stats" />
   
   <br/><br/>
   
