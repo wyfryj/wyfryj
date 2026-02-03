@@ -23,10 +23,12 @@
 
   <br/>
 
-  
+  <h3>🏆 Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wyfryj&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
 
-
-  <br/><br/>
+  <br/>
 
   <h3>🐍 My Contribution Snake</h3>
   <picture>
