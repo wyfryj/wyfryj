@@ -4,7 +4,7 @@
 **wyfryj/wyfryj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=wyfryj&show_icons=true&theme=tokyonight) 
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=wyfryj&show_icons=true) 
 
 
 - 🔭 I’m currently working on ...
